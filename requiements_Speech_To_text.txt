@@ -1,0 +1,4 @@
+Install the required libraries:
+ FastAPI, Whisper, and uvicorn. You can install them by running
+ pip install fastapi whisper uvicorn in your command prompt/terminal.
+ Then Import These Recently Installed libraries

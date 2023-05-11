@@ -1,0 +1,5 @@
+Installation
+pip install wincl
+pip install FastAPI
+if compatibality issue with version
+pip install comtypes
